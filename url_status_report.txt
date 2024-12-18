@@ -1,0 +1,6 @@
+URL və Status Kodları
+=======================
+URL: http://malicious-site.com/page1, Status Code: 404
+URL: http://example.com/page2, Status Code: 200
+URL: http://blacklisteddomain.com/page3, Status Code: 404
+URL: http://malicious-site.com/login, Status Code: 404
